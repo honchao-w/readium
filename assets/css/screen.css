@@ -455,6 +455,11 @@ margin on the iframe, cause it breaks stuff. */
     line-height: 1.6em;
 }
 
+.read-more {
+    text-decoration: none;
+    color: #4A4A4A;
+}
+
 .post-meta {
     display: inline-block;
     margin: 0 0 5px 0;
